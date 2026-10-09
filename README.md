@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tajudeen Gbenga Rabiu</h1>
+<h1 align="center">👋 Hi, I'm Tajudeen Olugbenga Rabiu</h1>
 <h3 align="center">📊 Data Analyst | Power BI · SQL · Python · Excel</h3>
 
 ---
