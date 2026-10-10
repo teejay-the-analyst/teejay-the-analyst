@@ -57,16 +57,16 @@ My accounting background shapes how I work with data: I **reconcile before I rep
 
 ## 📂 Featured Projects
 
-### 🛒 [Retail Sales Analytics](https://github.com/teejay-the-analyst/Data_Analysis_Portfolio/tree/main/PowerBi/Retail%20Sales%20Report)
+### 🛒 [Retail Sales Analytics](https://github.com/teejay-data-io/Data_Analysis_Portfolio/tree/main/PowerBi/Retail%20Sales%20Report)
 A one-year sales dashboard for a **$2.75B** multi-store retailer: **1M transactions**, a **star-schema** model with 14 focused DAX measures, and a model I optimized from **39.8 MB to 14.9 MB** with no visual lost.
 <br>`Power BI` · `DAX` · `Power Query` · `Data Modeling`
 
-### 🔄 [Customer Retention Analytics](https://github.com/teejay-the-analyst/Data_Analysis_Portfolio/tree/main/PowerBi/Customer%20Retention%20Analysis)
+### 🔄 [Customer Retention Analytics](https://github.com/teejay-data-io/Data_Analysis_Portfolio/tree/main/PowerBi/Customer%20Retention%20Analysis)
 A two-page churn dashboard for **7,043 telecom customers**: a **26.5% churn rate** costing **$139K a month** in lost charges, with the drivers, reasons and cities behind it.
 <br>`Power BI` · `DAX` · `Power Query` · `Churn Analysis`
 
 <p>
-  <a href="https://github.com/teejay-the-analyst/Data_Analysis_Portfolio"><img src="https://img.shields.io/badge/View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full Portfolio"/></a>
+  <a href="https://github.com/teejay-data-io/Data_Analysis_Portfolio"><img src="https://img.shields.io/badge/View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full Portfolio"/></a>
 </p>
 
 ---
